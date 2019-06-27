@@ -5,10 +5,10 @@ This is a small webapp that will list the most starred Github repos that were cr
 => Libraries
 
 I used
-    -React (Because i love react And i enjoy using it)
-    -axios (to fetch data from Github API)
-    -bootstrap (The most popular UI framework)
-    -reactstrap (Package that provides bootstrap classes as components)
+    -React (Because i love react And i enjoy using it).
+    -axios (to fetch data from Github API).
+    -bootstrap (The most popular UI framework).
+    -reactstrap (Package that provides bootstrap classes as components).
 
 => Features
 
@@ -27,6 +27,6 @@ I used
 
 => Installation
 
-    -Git clone or download the Repository
-    -cd frontend-coding-challenge & npm install
-    -npm start
+    -Git clone or download the Repository.
+    -cd frontend-coding-challenge & npm install.
+    -npm start.
